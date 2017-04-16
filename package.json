@@ -1,0 +1,24 @@
+{
+  "name": "garrapata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsommardahl/garrapata.git"
+  },
+  "author": "Byron Sommardahl <byron@acklenavenue.com> (http://acklenavenue.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsommardahl/garrapata/issues"
+  },
+  "homepage": "https://github.com/bsommardahl/garrapata#readme",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "getmac": "^1.2.1",
+    "ping": "^0.2.2"
+  }
+}
