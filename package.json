@@ -19,6 +19,7 @@
   "dependencies": {
     "cron": "^1.2.1",
     "getmac": "^1.2.1",
-    "ping": "^0.2.2"
+    "ping": "^0.2.2",
+    "request": "^2.81.0"
   }
 }
